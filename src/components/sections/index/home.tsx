@@ -19,13 +19,13 @@ export default function Home() {
 		<Section classProp={about.section}>
 			<Container spacing={['verticalXXXLrg']}>
 				<SectionTitle
-					title="About Me"
+					title="About Us"
 					preTitle="Synopsis"
-					subTitle="From an early age, my passion for creating new things has been a driving force. Immersed in the world of design and coding, I honed my skills and explored innovative solutions. This love for creation has shaped my career, fueling my desire to bring impactful and visually stunning projects to life. With meticulous attention to detail and a keen eye for aesthetics, I strive to craft exceptional and memorable experiences."
+					subTitle="Our trainners are being working for the big companies like AT&T, Shell India, Msys, Infosys, Astrazeneka, have more then 13 years of work experince and trainned more then 100 proffessionals to excel in their career"
 				/>
 				<section className={about.content}>
 					<div className={about.image}>
-						<Image src="https://avatars.githubusercontent.com/u/75434191?v=4" width={600} height={800} alt="Muhammad Fiaz"   loading="eager" />
+						<Image src="https://avatars.githubusercontent.com/u/32305531?v=4" width={600} height={800} alt="Krikal Education"   loading="eager" />
 					</div>
 					<div className={about.copy}>
 						<CopyBlock

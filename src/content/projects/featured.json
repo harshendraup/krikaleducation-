@@ -1,14 +1,14 @@
 [
 	{
-		"project": "Logly",
-		"url": "https://github.com/muhammad-fiaz/logly",
-		"repo": "Public",
-		"descriptionTitle": "logly is a log management package",
-		"description": "that aims to provide various log management features such as auto logging and customize the log with color and tags and disable specific log levels ease and more",
+		"project": "Hirangana",
+		"url": "https://hirangana.in/",
+		"repo": "Private",
+		"descriptionTitle": "It's an Ecommerce portal for the luxury brand.",
+		"description": "The website and portal is already live on production and been used by 10k users, Technology used is React, React Native, Node, Type Script, AWS, GCP",
 		"imageOptions": [
 		],
 		"images": [
-			{ "key": "mock-stack",	"hover": "right", 	"h": "300", "w": "300", "url": "/img/logly.png" }
+			{ "key": "mock-stack",	"hover": "right", 	"h": "300", "w": "300", "url": "/img/hirangana+logo.png" }
 
 		],
 		"stack": [
@@ -18,16 +18,16 @@
 
 	},
 	{
-		"project": "muhammadfiaz.com",
-		"url": "https://github.com/muhammad-fiaz/portfolio",
-		"repo": "Public",
-		"descriptionTitle": "An open-source portfolio website",
-		"description": "built on Next.js and React. A fast and responsive single page application.",
+		"project": "ShopByHeart",
+		"url": "https://shopbyheart.in/",
+		"repo": "Private",
+		"descriptionTitle": "A 360' E-commerce portal, very popular in india",
+		"description": "built on Next.js and React. A fast and responsive Ecommerce Application, Along with it's order and user managment dashboard",
 		"imageOptions": [
 			{ "key": "size", 		"value": "large" }
 		],
 		"images": [
-			{ "key": "portfolio", "hover": "left", "h": "550", "w": "330",  "url": "/img/img-mock.png" }
+			{ "key": "portfolio", "hover": "left", "h": "550", "w": "330",  "url": "/img/hirangana+logo.png" }
 		],
 		"stack": [
 			{ "key": "nextjs", 		"name": "Next.js", 		"type": "devicon" },

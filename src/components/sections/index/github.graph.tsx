@@ -18,7 +18,7 @@ export default function GithubGraphSection() {
                 <SectionTitle
                     title="Github Contributions"
                     preTitle="My Way"
-                    subTitle={`My GitHub Contributions show my ongoing open-source involvement since ${year}, a fulfilling hobby I engage in during my free time.`}
+                    subTitle={`My GitHub Contributions show my ongoing open-source involvement since 2016, a fulfilling hobby I engage in during my free time.`}
                 />
                 <section className={`${styles.area}`}
             >
@@ -43,7 +43,7 @@ export default function GithubGraphSection() {
                             >
                                 <GitHubCalendar
                                     key={`${year}-calendar`}
-                                    username="muhammad-fiaz"
+                                    username="harshendraup"
                                     year={year}
                                     colorScheme="dark"
                                 />
