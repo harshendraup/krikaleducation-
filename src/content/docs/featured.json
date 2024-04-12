@@ -1,19 +1,50 @@
 [
   {
-    "title": "muhammadfiaz.com",
-    "pubDate": "2023-07-05",
-    "link": "https://github.com/muhammad-fiaz/portfolio#readme",
+    "title": "Web Development",
+    "pubDate": "2024-04-12",
+    "link": "https://react.dev/",
     "author": "Krikal Education",
-    "thumbnail": "/img/jobs.png",
+    "thumbnail": "/img/react.png",
     "categories": ["Portfolio", "Website", "Blog","personal"]
   },
   {
-    "title": "logly",
+    "title": "Full Stack Development",
     "pubDate": "2023-12-29",
     "link": "https://github.com/muhammad-fiaz/logly#readme",
     "author": "Krikal Education",
-    "thumbnail": "/img/logly.png",
+    "thumbnail": "/img/react.png",
+    "categories": ["Python","logging"]
+  }, 
+  {
+    "title": "Mobile Application Development",
+    "pubDate": "2023-12-29",
+    "link": "https://github.com/muhammad-fiaz/logly#readme",
+    "author": "Krikal Education",
+    "thumbnail": "/img/react.png",
+    "categories": ["Python","logging"]
+  },
+  {
+    "title": "Devs Ops Tranning",
+    "pubDate": "2023-12-29",
+    "link": "https://github.com/muhammad-fiaz/logly#readme",
+    "author": "Krikal Education",
+    "thumbnail": "/img/react.png",
+    "categories": ["Python","logging"]
+  },
+  {
+    "title": "UI/UX Design and Development",
+    "pubDate": "2023-12-29",
+    "link": "https://github.com/muhammad-fiaz/logly#readme",
+    "author": "Krikal Education",
+    "thumbnail": "/img/react.png",
+    "categories": ["Python","logging"]
+  },
+  {
+    "title": "Digital Marketing",
+    "pubDate": "2023-12-29",
+    "link": "https://github.com/muhammad-fiaz/logly#readme",
+    "author": "Krikal Education",
+    "thumbnail": "/img/react.png",
     "categories": ["Python","logging"]
   }
-
 ]

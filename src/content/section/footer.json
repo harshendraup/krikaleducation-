@@ -1,13 +1,13 @@
 {
 	"Websites": [
 		{
-			"person": "muhammadfiaz.com",
-			"link": "https://muhammadfiaz.com/",
+			"person": "krikal.in",
+			"link": "https://krikal.in/",
 			"note": ""
 		},
 		{
-			"person": "articles.muhammadfiaz.com",
-			"link": "https://articles.muhammadfiaz.com/",
+			"person": "articles.krikal.in",
+			"link": "https://articles.krikal.in/",
 			"note": ""
 		}
 
@@ -16,27 +16,27 @@
 	"links": [
 		{
 			"person": "Home",
-			"link": "https://muhammadfiaz.com/",
+			"link": "https://krikal.in/",
 			"note": ""
 		},
 		{ 
 			"person": "Documentations",
-			"link": "https://muhammadfiaz.com/docs",
+			"link": "https://krikal.in/docs",
 			"note": ""
 		},	{
 			"person": "Articles",
-			"link": "https://muhammadfiaz.com/articles",
+			"link": "https://krikal.in/articles",
 			"note": ""
 		},
 
 		{
 			"person": "Projects",
-			"link": "https://muhammadfiaz.com/projects",
+			"link": "https://krikal.in/projects",
 			"note": ""
 		},
 		{
 			"person": "Contact",
-			"link": "mailto:contact@muhammadfiaz.com",
+			"link": "mailto:contact@krikal.in",
 			"note": ""
 		}
 

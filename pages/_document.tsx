@@ -34,17 +34,17 @@ export default function Document() {
                 <meta httpEquiv="Content-Type" content="text/html; charset=utf-8"/>
                 <meta name="language" content="English"/>
                 <meta name="revisit-after" content="1 days"/>
-                <link rel="canonical" href="https://muhammadfiaz.com"/>
+                <link rel="canonical" href="https://krikal.in"/>
                 <meta name="license" content="MIT License"/>
                 <meta httpEquiv="content-language" content="en-us"/>
 
-                <link rel="preconnect" href="https://muhammadfiaz.com"/>
+                <link rel="preconnect" href="https://krikal.in"/>
 
-                <link rel="dns-prefetch" href="https://muhammadfiaz.com"/>
+                <link rel="dns-prefetch" href="https://krikal.in"/>
 
                 <meta name="author" content="Krikal Education"/>
 
-                <link rel="alternate" hrefLang="en" href="https://muhammadfiaz.com"/>
+                <link rel="alternate" hrefLang="en" href="https://krikal.in"/>
 
                 <meta name="robots" content="index, follow"/>
                 <meta name="googlebot" content="index, follow"/>
@@ -73,7 +73,7 @@ export default function Document() {
                 <meta property="og:image:alt" content="Krikal Education"/>
                 <meta property="og:image:width" content="300"/>
                 <meta property="og:image:height" content="300"/>
-                <meta property="og:url" content="https://muhammadfiaz.com"/>
+                <meta property="og:url" content="https://krikal.in"/>
                 <meta property="og:type" content="website"/>
                 <meta property="og:profile" content="https://github.com/muhammad-fiaz"/>
                 <meta property="og:site_name" content="Krikal Education"/>
@@ -87,7 +87,7 @@ export default function Document() {
                       content="Krikal Education - A dedicated Full Stack Developer proficient in App/Web, Cloud, DevOps, AI/ML, and Design. Join my journey."/>
                 <meta name="twitter:image" content="https://avatars.githubusercontent.com/u/75434191?v=4"/>
                 <meta name="twitter:creator" content="https://twitter.com/muhammadfiaz_"/>
-                <meta name="twitter:domain" content="https://muhammadfiaz.com"/>
+                <meta name="twitter:domain" content="https://krikal.in"/>
 
 
                 <link rel='apple-touch-startup-image' href='/img/logo_rounded.png' sizes='2048x2732'/>
@@ -149,7 +149,7 @@ export default function Document() {
           "@context": "https://schema.org",
           "@type": "Person",
           "name": "Krikal Education",
-          "url": "https://muhammadfiaz.com",
+          "url": "https://krikal.in",
           "sameAs": [
             "https://github.com/muhammad-fiaz",
             "https://www.linkedin.com/in/muhammad-fiaz-",
@@ -224,27 +224,27 @@ export default function Document() {
               "@type": "ListItem",
               "position": 1,
               "name": "Home",
-              "item": "https://muhammadfiaz.com/"
+              "item": "https://krikal.in/"
             },{
               "@type": "ListItem",
               "position": 2,
               "name": "Docs",
-              "item": "https://muhammadfiaz.com/docs"
+              "item": "https://krikal.in/docs"
             },{
               "@type": "ListItem",
               "position": 3,
               "name": "Articles",
-              "item": "https://muhammadfiaz.com/articles"
+              "item": "https://krikal.in/articles"
             },{
               "@type": "ListItem",
               "position": 4,
               "name": "Projects",
-              "item": "https://muhammadfiaz.com/projects"
+              "item": "https://krikal.in/projects"
             },{
               "@type": "ListItem",
               "position": 5,
               "name": "Sign In",
-              "item": "https://muhammadfiaz.com/signin"
+              "item": "https://krikal.in/signin"
             }]
           }
         `
