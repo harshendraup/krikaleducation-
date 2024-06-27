@@ -8,7 +8,7 @@
 		"imageOptions": [
 		],
 		"images": [
-			{ "key": "mock-stack",	"hover": "right", 	"h": "300", "w": "300", "url": "/img/hirangana+logo.png" }
+			{ "key": "mock-stack", "h": "300", "w": "300", "url": "/img/hirangana+logo.png" }
 
 		],
 		"stack": [
