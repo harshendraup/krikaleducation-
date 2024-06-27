@@ -15,8 +15,8 @@ export async function checkForUpdates(): Promise<VersionDetails | null> {
     const currentVersion: string = settings.version || '1.0.0';
 
     // Define the GitHub repository details
-    const repoOwner = 'muhammad-fiaz';
-    const repoName: string = settings?.repository?.repoName || 'portfolio';
+    const repoOwner = 'krikaleducation-';
+    const repoName: string = settings?.repository?.repoName || 'krikaleducation';
 
     try {
         // Fetch the latest release information from GitHub API

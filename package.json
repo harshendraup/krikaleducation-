@@ -106,11 +106,11 @@
 	"version": "1.0.7",
 	"description": "Open source portfolio website built with Next.js amd TypeScript.",
 	"main": "pages/index.tsx",
-	"repository": "https://github.com/muhammad-fiaz/portfolio.git",
-	"homepage": "https://github.com/muhammad-fiaz/portfolio#readme",
+	"repository": "https://github.com/harshendraup/krikaleducation-.git",
+	"homepage": "https://github.com/harshendraup/krikaleducation-.git#readme",
 	"bugs": {
-		"url": "https://github.com/muhammad-fiaz/portfolio/issues/new"
+		"url": "https://github.com/harshendraup/krikaleducation-.git/issues/new"
 	},
-	"author": "muhammad-fiaz <contact@krikal.in>",
+	"author": "krikaleducation <contact@krikal.in>",
 	"license": "MIT"
 }
