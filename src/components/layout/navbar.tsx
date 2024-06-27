@@ -47,23 +47,23 @@ export default function Navbar() {
 	let signInContent; // Declare a variable to hold sign-in content
 
 	// Determine the sign-in content based on cookie existence
-	if (email && password) {
-		// If email and password cookies exist, show the user's profile image
-		signInContent = (
+	// if (email && password) {
+	// 	// If email and password cookies exist, show the user's profile image
+	// 	signInContent = (
 
-					<div className={css.circleImage}>
-						<Image src="/img/user.jpg" width={34} height={34} alt="Profile Image" loading="eager" />
-					</div>
+	// 				<div className={css.circleImage}>
+	// 					<Image src="/img/user.jpg" width={34} height={34} alt="Profile Image" loading="eager" />
+	// 				</div>
 
-		);
-	} else {
-		// If email and password cookies do not exist, show the "Sign In" button
-		signInContent = (
-			<button className={css.signInButton}>
-				<Link href="/signin">Sign In</Link>
-			</button>
-		);
-	}
+	// 	);
+	// } else {
+	// 	// If email and password cookies do not exist, show the "Sign In" button
+	// 	signInContent = (
+	// 		<button className={css.signInButton}>
+	// 			<Link href="/signin">Sign In</Link>
+	// 		</button>
+	// 	);
+	// }
 
 	// useEffect: Set the initial menu state to false
 	useEffect(() => {
