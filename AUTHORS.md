@@ -1,3 +1,3 @@
 # Authors
 
-- Krikal Education ([GitHub](https://github.com/muhammad-fiaz))
+- Krikal Education ([GitHub](https://github.com/harshendraup/krikaleducation-))

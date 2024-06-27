@@ -8,7 +8,7 @@ export default function Title500() {
 
             {/*
 				Author: Krikal Education
-                 GitHub: Visit the GitHub repository at https://github.com/muhammad-fiaz/portfolio/ for more details.
+                 GitHub: Visit the GitHub repository at https://github.com/harshendraup/krikaleducation- for more details.
                  license: MIT License
                   */}
             <meta charSet="utf-8" />

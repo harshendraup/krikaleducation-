@@ -11,7 +11,7 @@ export default function Document() {
             <Head>
                 {/*
 				Author: Krikal Education
-                 GitHub: Visit the GitHub repository at https://github.com/muhammad-fiaz/portfolio/ for more details.
+                 GitHub: Visit the GitHub repository at https://github.com/harshendraup/krikaleducation- for more details.
                  license: MIT License
                   */}
                 <meta charSet="utf-8"/>
@@ -75,7 +75,7 @@ export default function Document() {
                 <meta property="og:image:height" content="300"/>
                 <meta property="og:url" content="https://krikal.in"/>
                 <meta property="og:type" content="website"/>
-                <meta property="og:profile" content="https://github.com/muhammad-fiaz"/>
+                <meta property="og:profile" content="https://github.com/harshendraup/krikaleducation-"/>
                 <meta property="og:site_name" content="Krikal Education"/>
                 <meta property="og:locale" content="en_US"/>
 
@@ -122,9 +122,9 @@ export default function Document() {
     Krikal Education Computer Science, Krikal Education Cloud Computing, Krikal Education IT Professional,
     Krikal Education Technology Enthusiast, Krikal Education Computer Programmer, Krikal Education Code Portfolio,
     Krikal Education Technology Student, Krikal Education Software Architect,fiaz,fiaz portfolio,fiaz devops,fiaz devops engineer,
-    fiaz devops portfolio,fiaz devops projects,fiaz devops specialist,fiaz devops professional,fiaz devops engineer portfolio,
-    fiaz devops engineer projects,fiaz devops engineer specialist,fiaz devops engineer professional,fiaz devops engineer coding,
-    fiaz devops engineer coding projects,fiaz devops engineer coding portfolio,fiaz devops engineer coding specialist,
+    Krikal devops portfolio, Krikal devops projects,fiaz devops specialist,Krikal devops professional,fiaz devops engineer portfolio,
+    Krikal devops engineer projects,fiaz devops engineer specialist,fiaz devops engineer professional,fiaz devops engineer coding,
+    Krikal devops engineer coding projects,Krikal devops engineer coding portfolio,Krikal devops engineer coding specialist,
     Open Source Contributor,open source,open source projects,open source portfolio,open source contributions,
     open source contributions portfolio,open source contributions projects,open source contributions coding,
     open source contributions coding projects,open source contributions coding portfolio,open source contributions coding specialist,
@@ -151,11 +151,11 @@ export default function Document() {
           "name": "Krikal Education",
           "url": "https://krikal.in",
           "sameAs": [
-            "https://github.com/muhammad-fiaz",
-            "https://www.linkedin.com/in/muhammad-fiaz-",
-            "https://medium.com/@muhammad-fiaz",
-            "https://twitter.com/muhammadfiaz_",
-            "https://dev.to/muhammadfiaz"
+            "https://github.com/harshendraup/krikaleducation-",
+            "https://www.linkedin.com/in/krikaleducation-",
+            "https://medium.com/@example",
+            "https://twitter.com/@example",
+            "https://dev.to/@example"
           ]
         }`
                     }}
@@ -259,10 +259,10 @@ export default function Document() {
             "name": "NeuroLink",
             "description": "NeuroLink is a Python package that aims to provide various AI capabilities, including a chatbot, image processing, audio processing, Django support, and more. It utilizes TensorFlow and other related technologies for natural language processing and AI tasks.",
             "alternateName": "neurolink",
-            "url": "https://github.com/muhammad-fiaz/neurolink",
+            "url": "https://github.com/harshendraup/krikaleducation-/neurolink",
             "logo": "https://private-user-images.githubusercontent.com/75434191/242214243-82fbf702-43e2-46e6-8e01-11758fa26310.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE2OTQ4NTE2ODksIm5iZiI6MTY5NDg1MTM4OSwicGF0aCI6Ii83NTQzNDE5MS8yNDIyMTQyNDMtODJmYmY3MDItNDNlMi00NmU2LThlMDEtMTE3NThmYTI2MzEwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzA5MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMwOTE2VDA4MDMwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ3NjJmNzA5MGU5NWY4NTUxZTcxYmVmNzNlZTYzOTViN2FjNzE1YTM2MjM1OTNlOGIxNzk0ODE1NDczMDMzNGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.ay5bRLRoojQ33ZJLFnvjyq6Dq4qZfDY7quvv4WmgRLI",
              "sameAs": [
-            "https://www.linkedin.com/in/muhammad-fiaz-/"
+            "https://www.linkedin.com/in/@example/"
         ]          }
         `
                 }}/>
