@@ -102,9 +102,9 @@
 		"webpack-bundle-analyzer": "^4.10.1",
 		"webpack-cli": "^5.1.4"
 	},
-	"name": "portfolio",
+	"name": "krikaleducation",
 	"version": "1.0.7",
-	"description": "Open source portfolio website built with Next.js amd TypeScript.",
+	"description": "Open source krikaleducation website built with Next.js amd TypeScript.",
 	"main": "pages/index.tsx",
 	"repository": "https://github.com/harshendraup/krikaleducation-.git",
 	"homepage": "https://github.com/harshendraup/krikaleducation-.git#readme",
